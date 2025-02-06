@@ -18,6 +18,8 @@ body {
 /* Style the piano to use flex box */
 .piano {
   display: flex;
+  border: 2px solid red; /* Add a border to check visibility */
+  background-color: lightgray; /* Temporary background */
 }
 
 .key {
